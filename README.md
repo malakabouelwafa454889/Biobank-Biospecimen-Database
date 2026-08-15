@@ -54,3 +54,6 @@ The final ER diagram is available in the `diagrams` folder.
 ## Project Status
 
 Database implementation completed.
+
+## Video Presentation 
+https://drive.google.com/file/d/1IybKgXMtbSOJpaDpO__TK44GwixzEEtj/view?usp=sharing
